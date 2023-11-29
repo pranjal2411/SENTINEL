@@ -12,8 +12,6 @@ SENTINEL is a Python-based Natural Language Processing (NLP) project designed fo
 
 - `sentinel.ipynb`: The main notebook containing the NLP and text classification functionality.
 - `data/`: Directory containing sample datasets for training and testing.
-- `results/`: Folder for storing the output and results of the classification.
-- `graphs/`: Folder for saving visualizations, such as the frequency and text length graph.
 
 ## Installation
 
